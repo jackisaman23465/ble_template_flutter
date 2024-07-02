@@ -34,3 +34,6 @@ google-services.json
 .flutter-plugins-dependencies
 ios/Runner.xcworkspace/contents.xcworkspacedata
 ios/Runner.xcodeproj/project.pbxproj
+/.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
